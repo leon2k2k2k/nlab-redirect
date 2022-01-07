@@ -137,8 +137,6 @@ $n$-category > history:$n$-category/history
 1T relation:1T-relation
 1T relation:1T relations
 1T relation:1T-relations
-2009 July changes:apples
-2009 June changes:path-connected space
 (2,1)-algebraic theory of E-infinity algebras:(2,1)-algebraic theeory of E-infinity algebras
 (2,1)-algebraic theory of E-infinity algebras:(2,1)-algebraic theory of E-∞ algebras
 (2,1)-algebraic theory of E-infinity algebras:(2,1)-algebraic theory of E-∞-algebras
@@ -231,8 +229,7 @@ $n$-category > history:$n$-category/history
 (∞,2)-functor:(infinity,2)-functor
 (∞,2)-functor:(infinity,2)-functors
 2-functor:strict 2-functor
-2-functor:strict 2-functors
-2-gerbe:2-gerbes
+22-gerbe:2-gerbes
 2-group:2-groups
 (-2)-groupoid:(?2)-groupoid
 2-groupoid:2-groupoids
@@ -557,7 +554,6 @@ abelian group:Abelian groups
 abelian infinity-group:abelian ∞-group
 abelian infinity-group:abelian ∞-groups
 abelian infinity-group:abelian infinity-groups
-abelian infinity-group:k-monoidal ∞-group
 abelianization:abelianisation
 abelianization:abelianisations
 abelianization:abelianizations
@@ -1325,13 +1321,8 @@ algebraic category:algebraic categories
 algebraic category:bounded algebraic categories
 algebraic category:bounded algebraic category
 algebraic category:bounded monadic categories
-algebraic category:bounded monadic category
 algebraic category:finitary algebraic categories
 algebraic category:finitary algebraic category
-algebraic category:finitary monadic categories
-algebraic category:finitary monadic category
-algebraic category:monadic categories
-algebraic category:monadic category
 algebraic cobordism:algebraic cobordism spectra
 algebraic cobordism:algebraic cobordism spectrum
 algebraic curve:algebraic curves
@@ -1505,8 +1496,6 @@ almost function:almost functions
 almost Hermitian structure:almost Hermitean structure
 almost Hermitian structure:almost Hermitean structures
 almost Hermitian structure:almost Hermitian structures
-almost Hermitian structure:Hermitean structure
-almost Hermitian structure:Hermitean structures
 almost Kähler geometric quantization:almost Kähler quantization
 almost module:almost mathematics
 almost module:almost modules
@@ -3175,13 +3164,8 @@ Beilinson–Deligne cup product:Beilinson-Deligne cup-product
 Beilinson–Deligne cup product:Beilinson--Deligne cup products
 Beilinson–Deligne cup product:Beilinson-Deligne cup products
 Beilinson–Deligne cup product:Beilinson–Deligne cup products
-Beilinson–Deligne cup product:cup product in differential generalized cohomology
-Beilinson–Deligne cup product:cup product in generalized differential cohomology
 Beilinson–Deligne cup product:cup product in ordinary differential cohomology
 Beilinson–Deligne cup product:cup-product in ordinary differential cohomology
-Beilinson–Deligne cup product:cup product on differential cohomology
-Beilinson–Deligne cup product:cup product on differential generalized cohomology
-Beilinson–Deligne cup product:cup product on generalized differential cohomology
 Beilinson–Deligne cup product:Deligne--Beilinson cup product
 Beilinson–Deligne cup product:Deligne-Beilinson cup product
 Beilinson–Deligne cup product:Deligne–Beilinson cup product
@@ -3287,7 +3271,6 @@ beta-reduction:beta-reduced
 beta-reduction:beta reduction
 beta-reduction:beta rule
 beta-reduction:beta-rule
-beta-reduction:∞-conversion
 beta-reduction:∞-equivalence
 beta-reduction:∞-equivalent
 beta-reduction:iota equivalence
@@ -3482,7 +3465,6 @@ biideal:biideals
 biideal:Hopf ideal
 biideal:quotient bialgebra
 biideal:quotient bigebra
-biideal:quotient Hopf algebra
 bi-initial object:bi-initial
 bi-initial object:biinitial
 bi-initial object:biinitial object
@@ -3625,7 +3607,6 @@ bisimplicial object:bisimplicial objects
 bisimplicial set:bisimplicial sets
 bisimplicial set:simplicial simplicial set
 bisimplicial set:simplicial simplicial sets
-bisimplicial set:total décalage
 bisimplicial set:total simplicial set
 bisimplicial set:total simplicial sets
 Bisognano-Wichmann theorem:Bisognano-Wichmann relations
@@ -4099,7 +4080,6 @@ braided monoidal category:hexagon identities
 braided monoidal category:hexagon identity
 braided monoidal functor:braided monoidal functors
 braided monoidal functor:symmetric monoidal functor
-braided monoidal functor:symmetric monoidal functors
 braid group:Artin braid group
 braid group:braid
 braid group:braid groups
@@ -4148,10 +4128,6 @@ branched cover:ramifications
 branched cover:ramified
 branched cover:ramified cover
 branched cover:ramified covers
-branched cover:ramified extension
-branched cover:ramified extensions
-branched cover:unramified extension
-branched cover:unramified extensions
 branched manifold:branched manifolds
 branching:branchings
 Brandenberger-Vafa mechanism:brane gas cosmology
@@ -4989,8 +4965,6 @@ category of open subsets:categories of open subspaces
 category of open subsets:category of opens
 category of open subsets:category of open sets
 category of open subsets:category of open subspaces
-category of open subsets:frame of open subsets
-category of open subsets:frames of open subsets
 category of open subsets:lattice of open subsets
 category of open subsets:lattices of open subsets
 category of open subsets:poset of open subsets
@@ -6227,14 +6201,11 @@ codiscrete groupoid:codiscrete groupoids
 codiscrete groupoid:pair groupoid
 codiscrete groupoid:pair groupoids
 codiscrete object:codiscrete objects
-codiscrete object:concrete objects
 codiscrete space:antidiscrete space
 codiscrete space:antidiscrete spaces
 codiscrete space:antidiscrete topological space
 codiscrete space:antidiscrete topological spaces
 codiscrete space:codiscrete spaces
-codiscrete space:indiscrete space
-codiscrete space:indiscrete spaces
 codiscrete space:indiscrete topological space
 codiscrete space:indiscrete topological spaces
 codomain fibration:codomain fibrations
@@ -6403,7 +6374,6 @@ coherent coverage:geometric sites
 coherent coverage:geometric topologies
 coherent coverage:geometric topology
 coherent D-module:coherent D-modules
-coherent functor:regular functors
 coherent hyperdoctrine:coherent hyperdoctrines
 coherent (infinity,1)-topos:coherent (∞,1)-topos
 coherent (infinity,1)-topos:coherent (∞,1)-toposes
@@ -6544,7 +6514,6 @@ cohomology in a local net of observables:cohomology of a net of local observable
 cohomology in a local net of observables:cohomology of local net of observables
 cohomology in a local net of observables:cohomology of local nets of observables
 cohomology in a local net of observables:cohomology of nets of local observables
-cohomology localization:homotopy localizations
 cohomology of dynamical systems:cohomology for dynamical systems
 cohomology operation:cohomology operations
 cohomology ring:cohomology rings
@@ -6598,8 +6567,6 @@ coisotropic subspace:co-isotropic subspace
 coisotropic subspace:co-isotropic subspaces
 coisotropic subspace:coisotropic subspaces
 Coisson algebra:Coisson algebras
-Coisson algebra:vertex Poisson algebra
-Coisson algebra:vertex Poisson algebras
 cokernel:cokernels
 cokernel pair:cokernel pairs
 colax-distributive rig category:colax-distributive categories
@@ -7281,7 +7248,6 @@ complexity theory:computational complexity
 complex Lie algebra:complex Lie algebras
 complex Lie group:complex Lie groups
 complex line:complex lines
-complex manifold:complex analytic manifold
 complex manifold:complex-analytic manifold
 complex manifold:complex analytic manifolds
 complex manifold:complex-analytic manifolds
@@ -7540,12 +7506,8 @@ Conduché functor:Conduche ∞-fibration
 Conduché functor:Conduche fibration
 Conduché functor:Conduché ∞-fibration
 Conduché functor:Conduché fibration
-Conduché functor:Conduche ∞-functor
 Conduché functor:Conduche functor
-Conduché functor:Conduché ∞-functor
-Conduché functor:Conduche ∞-functors
 Conduché functor:Conduche functors
-Conduché functor:Conduché ∞-functors
 Conduché functor:Conduché functors
 Conduché functor:Conduche infinity-fibration
 Conduché functor:Conduché infinity-fibration
@@ -7570,7 +7532,6 @@ Conduché functor:strictly powerful functor
 Conduché functor:strictly powerful functors
 conductor:conductors
 cone:cocone
-cone:cocones
 cone:cones
 cone morphism:cone function
 cone morphism:cone functions
@@ -7641,7 +7602,6 @@ conformal geometry:conformal manifolds
 conformal geometry:conformal structure
 conformal geometry:conformal structures
 conformal group:conformal groups
-conformal group:conformal invariance
 conformal group:conformal symmetry
 conformal invariance and scale invariance:conformal invariance
 conformal invariance and scale invariance:scale invariance
@@ -7786,7 +7746,6 @@ connection on a bundle:bundle with connection
 connection on a bundle:bundle with connections
 connection on a bundle:connection on a circle bundle
 connection on a bundle:connection on a circle-bundle
-connection on a bundle:connection on a principal bundle
 connection on a bundle:connections on a bundle
 connection on a bundle:connections on a circle bundle
 connection on a bundle:connections on a circle-bundle
@@ -7794,7 +7753,6 @@ connection on a bundle:connections on a principal bundle
 connection on a bundle:connections on bundles
 connection on a bundle:connections on circle bundles
 connection on a bundle:connections on circle-bundles
-connection on a bundle:connections on principal bundles
 connection on a bundle gerbe:bundle gerbes with connection
 connection on a bundle gerbe:bundle gerbe with connection
 connection on a bundle gerbe:connections on a bundle gerbes
@@ -8632,16 +8590,10 @@ C-star-correspondence:C*-correspondence
 C-star-correspondence:C*-correspondences
 C-star-correspondence:C-star-correspondences
 C-star dynamical system:C-star dynamical systems
-C-star dynamical system:C-star system
-C-star dynamical system:C-star-system
-C-star dynamical system:C-star systems
-C-star dynamical system:C-star-systems
 C-star dynamical system:invariant state
-C-star-system:C-star dynamical systems
 C-star-system:C-star system
 C-star-system:C-star systems
 C-star-system:C-star-systems
-C-star-system:invariant state
 Ctirad Klimčík:C. Klimcik
 Ctirad Klimčík:C. Klimčík
 Ctirad Klimčík:Ctirad Klimcik
@@ -9192,9 +9144,7 @@ D-brane:Dp-branes
 dcpo:complete partial order
 dcpo:complete partial orders
 dcpo:cpo
-dcpo:CPO
 dcpo:cpo's
-dcpo:cpos
 dcpo:CPO's
 dcpo:CPOs
 dcpo:DCPO
@@ -9219,7 +9169,6 @@ decategorification:decategorifying
 decategorification:isomorphism class
 decategorification:isomorphism classes
 decidability:type checking
-decidable equality:Hedberg's theorem
 decidable equality:stable equality
 decidable judgment:decidable judgement
 decidable object:decidable objects
@@ -9439,7 +9388,6 @@ Demazure, lectures on p-divisible groups, I.5, finiteness conditions:I.5, finite
 Demazure, lectures on p-divisible groups, I.6, the four definitions of formal schemes:I.6, the four definitions of formal schemes
 Demazure, lectures on p-divisible groups, I.7. operations on formal schemes:I.7. operations on formal schemes
 Demazure, lectures on p-divisible groups, I.8, constant- and étale schemes:etale scheme
-Demazure, lectures on p-divisible groups, I.8, constant- and étale schemes:étale scheme
 Demazure, lectures on p-divisible groups, I.8, constant- and étale schemes:I.8, constant- and étale schemes
 Demazure, lectures on p-divisible groups, I.9, the Frobenius morphism:Frobenius morphism
 Demazure, lectures on p-divisible groups, I.9, the Frobenius morphism:I.9, the Frobenius morphism
@@ -9494,19 +9442,16 @@ De Morgan Heyting algebra:de Morgan Heyting algebra
 De Morgan Heyting algebra:de morgan Heyting algebras
 De Morgan Heyting algebra:de Morgan Heyting algebras
 De Morgan Heyting algebra:De Morgan Heyting algebras
-De Morgan Heyting algebra:Stone algebra
-De Morgan Heyting algebra:Stone algebras
 De Morgan Heyting algebra:Stone lattice
 De Morgan Heyting algebra:Stone lattices
 De Morganization:De Morganisation
+De Morganization:De Morganisations
 De Morganization:demorganization
 De Morganization:de Morganization
 De Morganization:DeMorganization
 De Morganization:de Morgan topology
 De Morganization:De Morgan topology
 De Morganization:DeMorgan topology
-De Morgan topos:De Morganisation
-De Morgan topos:De Morganisations
 De Morgan topos:De Morganization
 De Morgan topos:De Morganizations
 De Morgan topos:de Morgan topoi
@@ -9723,8 +9668,6 @@ derived category:bounded derived category
 derived category:derived (∞,1)-categories
 derived category:derived (∞,1)-category
 derived category:derived categories
-derived category:derived dg-categories
-derived category:derived dg-category
 derived category:derived (infinity,1)-categories
 derived category:derived (infinity,1)-category
 derived category of coherent sheaves:derived categories of coherent sheaves
@@ -9893,14 +9836,13 @@ diagonal argument:diagonal arguments
 diagonal argument:diagonalization argument
 diagonal argument:diagonalization arguments
 diagonal function:diagonal map
+diagonal function:diagonal maps
 diagonal functor:diagonal functors
 diagonal functor:diagonal functors preserve limits
 diagonal matrix:diagonalizable matrices
 diagonal matrix:diagonalizable matrix
 diagonal matrix:diagonal matrices
 diagonal morphism:diagonal
-diagonal morphism:diagonal map
-diagonal morphism:diagonal maps
 diagonal morphism:diagonal morphisms
 diagonal morphism:diagonals
 diagonal morphism:diagonal subobject
@@ -10086,8 +10028,6 @@ differential form:densitized pseudoform
 differential form:densitized pseudoforms
 differential form:differential 0-form
 differential form:differential 0-forms
-differential form:differential 1-form
-differential form:differential 1-forms
 differential form:differential 2-form
 differential form:differential 2-forms
 differential form:differential 3-form
@@ -10141,8 +10081,6 @@ differential form:pseudo p-forms
 differential form:pseudo-p-forms
 differential form:smooth differential 0-form
 differential form:smooth differential 0-forms
-differential form:smooth differential 1-form
-differential form:smooth differential 1-forms
 differential form:smooth differential 2-form
 differential form:smooth differential 2-forms
 differential form:smooth differential 3-form
@@ -10974,7 +10912,6 @@ Dolbeault complex:holomorphic differential p-forms
 Dolbeault complex:holomorphic form
 Dolbeault complex:holomorphic forms
 Dolbeault complex:holomorphic function
-Dolbeault complex:holomorphic functions
 Dolbeault complex:holomorphic p-form
 Dolbeault complex:holomorphic p-forms
 Dolbeault complex:holomorphic smooth function
@@ -11054,7 +10991,6 @@ double affine Hecke algebra:double affine Hecke algebras
 double bicategory:double bicategories
 double category:double categories
 double category:double groupoid
-double category:double groupoids
 double category:horizontal 2-category
 double category of algebras:double categories of algebras
 double category of algebras:double categories of algebras for a 2-monad
@@ -11259,7 +11195,6 @@ dual:duals
 dual equivalence:antiequivalence
 dual gebra:dual bialgebra
 dual gebra:dual gebras
-dual gebra:dual Hopf algebra
 dual gebra:finite dual
 dual gebra:Hopf dual
 dual gebra:Hopf pairing
@@ -12436,7 +12371,6 @@ equivalence of categories:equivalences of groupoids
 equivalence of categories:equivalences of higher categories
 equivalence of categories:equivalences of higher groupoids
 equivalence of categories:equivalences of infinity-categories
-equivalence of categories:equivalences of infinity-groupoids
 equivalence of categories:equivalences of n-categories
 equivalence of categories:equivalences of n-groupoids
 equivalence of categories:equivalent categories
@@ -12488,7 +12422,6 @@ equivariant chain complex:equivariant chain complexes
 equivariant chain complex:equivariant cochain complex
 equivariant chain complex:equivariant cochain complexes
 equivariant Chern-Dold character:equivariant Chern-Dold characters
-equivariant cobordism theory:equivariant bordism
 equivariant cobordism theory:equivariant bordism theory
 equivariant cobordism theory:equivariant cobordism
 equivariant cohomology:Borel cohomology
@@ -12635,8 +12568,6 @@ error correcting code:error correction
 error correcting code:error-correction
 error correcting code:error corrections
 error correcting code:error-corrections
-error correction code:error correction
-error correction code:error corrections
 Erwin Schrödinger:Erwin Schroedinger
 E-∞ scheme:E-infinity scheme
 E-∞ scheme:E-infinity schemes
@@ -13684,7 +13615,6 @@ fibrant replacement:fibrant replacements
 fibrant replacement:fibrant resolution
 fibrant replacement:fibrant resolution functor
 fibrant replacement:fibrant resolutions
-fibrant type:fibrant types
 fibration category:fibration categories
 fibration fibered in groupoids:categories cofibered in groupoids
 fibration fibered in groupoids:categories cofibred in groupoids
@@ -13717,8 +13647,6 @@ fibration of points:category of points
 fibrations of quasi-categories:fibration of quasi-categories
 fibrations of quasi-categories:fibration of simplicial sets
 fibrations of quasi-categories:fibrations of simplicial sets
-fibrations of quasi-categories:weak fibration
-fibrations of quasi-categories:weak fibrations
 field bundle:field bundles
 field bundle:field fiber
 field bundle:field fibers
@@ -13749,8 +13677,6 @@ field (physics):field configuration
 field (physics):field configurations
 field (physics):field (in physics)
 field (physics):fields (in physics)
-field (physics):gauge field
-field (physics):gauge fields
 field (physics):physical field
 field (physics):physical fields
 field (physics):quantum field
@@ -13969,8 +13895,6 @@ finite field:finite fields
 finite graph:finite graphs
 finite group:finite groups
 finite group scheme:finite group schemes
-finite homotopy type:finite ∞-groupoid
-finite homotopy type:finite ∞-groupoids
 finite homotopy type:finite homotopy types
 finite homotopy type:finite infinity-groupoid
 finite homotopy type:finite infinity-groupoids
@@ -14062,18 +13986,12 @@ finite object:K-tilde-finite
 finite object:K-tilde-finiteness
 finite object:K-tilde-finite object
 finite object:K-tilde-finite objects
-finite object:Kuratowski finite
 finite object:Kuratowski-finite
 finite object:Kuratowski finiteness
 finite object:Kuratowski-finiteness
 finite object:Kuratowski finite object
 finite object:Kuratowski-finite object
-finite object:Kuratowski finite objects
 finite object:Kuratowski-finite objects
-finite object:Kuratowski subfinite
-finite object:Kuratowski-subfinite
-finite object:Kuratowski subfiniteness
-finite object:Kuratowski-subfiniteness
 finite object:Kuratowski subfinite object
 finite object:Kuratowski-subfinite object
 finite object:Kuratowski subfinite objects
@@ -14258,8 +14176,6 @@ flag variety:partial flag variety
 flat bundle:flat bundles
 flat connection:flat connections
 flat connection:integrable connection
-flat connection:projectively flat connection
-flat connection:projectively flat connections
 flat functor:covering-flat functor
 flat functor:covering-flat functors
 flat functor:flat functors
@@ -14625,7 +14541,6 @@ fppf site:fppf topology
 fppf site:fppf-topology
 fpqc site:fpqc-site
 fpqc site:fpqc topology
-fpqc site:fpqc-topology
 fpqc topology:fpqc-topology
 fractal dimension:fractal dimensions
 fractal:fractals
@@ -15343,7 +15258,6 @@ Galois deformation ring:Galois deformation rings
 Galois group:Galois groups
 Galois module:Galois modules
 Galois representation:Galois representations
-Galois Theories:Galois theories
 Galois theory:Galois extension
 Galois theory:Galois extensions
 Galois theory:Galois theories
@@ -15360,8 +15274,6 @@ Gamma-space:model structure for Gamma-spaces
 Gamma-space:model structure for ∞-spaces
 Gamma-space:Segal's category Gamma
 Gamma-space:Segal's category Γ
-Gamma-space:∞-space
-Gamma-space:∞-spaces
 Gamma-space:Γ-space
 Gamma-space:Γ-spaces
 gapped Hamiltonian:gapped Hamiltonians
@@ -15872,7 +15784,6 @@ geometric embedding:subtopoi
 geometric embedding:sub-topos
 geometric embedding:subtopos
 geometric embedding:sub-toposes
-geometric embedding:subtoposes
 geometric engineering of quantum field theory:geometric engineering
 geometric engineering of quantum field theory:geometric engineering of gauge theories
 geometric engineering of quantum field theory:geometric engineering of QFT
@@ -16341,7 +16252,6 @@ Goodwillie calculus:Goodwillie calculus of functors
 Goodwillie calculus:Goodwillie derivative
 Goodwillie calculus:Goodwillie derivatives
 Goodwillie derivative of the identity functor:Goodwillie derivatives of the identity functor
-Goodwillie-differentiable (infinity,1)-category:differentiable (∞,1)-categories
 Goodwillie-differentiable (infinity,1)-category:differentiable (∞,1)-category
 Goodwillie-differentiable (infinity,1)-category:differentiable (infinity,1)-categories
 Goodwillie-differentiable (infinity,1)-category:differentiable (infinity,1)-category
@@ -16776,7 +16686,6 @@ group of ideles:idele group
 group of ideles:idèle group
 group of ideles:idele groups
 group of ideles:ideles
-group of ideles:Poisson formula
 group of Lie type:groups of Lie type
 group of order 2:cyclic group of order 2
 group of order 2:cyclic group of order two
@@ -16967,7 +16876,6 @@ Haag-Kastler axioms:Haag–Kastler axiom
 Haag-Kastler axioms:Haag--Kastler axioms
 Haag-Kastler axioms:Haag–Kastler axioms
 Haag-Kastler axioms:Haag--Kastler net
-Haag-Kastler axioms:Haag-Kastler net
 Haag-Kastler axioms:Haag–Kastler net
 Haag-Kastler axioms:Haag--Kastler nets
 Haag-Kastler axioms:Haag-Kastler nets
@@ -17042,8 +16950,6 @@ Hamiltonian flow:Hamiltonian flows
 Hamiltonian form:Hamiltonian differential form
 Hamiltonian form:Hamiltonian differential forms
 Hamiltonian form:Hamiltonian forms
-Hamiltonian form:Hamiltonian n-form
-Hamiltonian form:Hamiltonian n-forms
 Hamiltonian:hamiltonian
 Hamiltonian:hamiltonian function
 Hamiltonian:Hamiltonian function
@@ -17096,7 +17002,6 @@ Hans-Peter Dürr:Hans-Peter Duerr
 Hans Porst:Hans-E. Porst
 HaPPY code:HaPPY codes
 Harder-Narasimhan theorem:Harder-Narasimhan filtration
-hard Lefschetz theorem:Lefschetz decompositions
 hard Lefschetz theorem:Lefschetz operator
 hard Lefschetz theorem:Lefschetz operators
 Harish-Chandra module:Harish--Chandra module
@@ -17363,10 +17268,6 @@ Hermite polynomial:Hermite polynomials
 Hermitian form:hermitian form
 Hermitian form:hermitian forms
 Hermitian form:Hermitian forms
-Hermitian form:hermitian metric
-Hermitian form:Hermitian metric
-Hermitian form:hermitian metrics
-Hermitian form:Hermitian metrics
 Hermitian form:hermitian space
 Hermitian form:Hermitian space
 Hermitian form:hermitian spaces
@@ -17788,7 +17689,6 @@ Hölder's inequality:Holder inequality
 Hölder's inequality:Hölder inequality
 Hölder's inequality:Holder's inequality
 hole argument:hole paradox
-HOL:HOL light
 HOL Light:HOL light
 holographic entanglement entropy:bit thread
 holographic entanglement entropy:bit threads
@@ -17871,10 +17771,6 @@ hom-object:enriched hom
 hom-object:hom object
 hom-object:hom objects
 hom-object:hom-objects
-hom-object:hom space
-hom-object:hom-space
-hom-object:hom spaces
-hom-object:hom-spaces
 hom-object:object of morphisms
 hom-object:objects of morphisms
 homogeneous C-star-algebra:homogeneous C*-algebra
@@ -18113,10 +18009,6 @@ homotopy limit:homotopy colimits
 homotopy limit:homotopy limits
 homotopy n-type:3-type
 homotopy n-type:3-types
-homotopy n-type:homotopy 2-type
-homotopy n-type:homotopy 2-types
-homotopy n-type:homotopy 3-type
-homotopy n-type:homotopy 3-types
 homotopy n-type:homotopy n-types
 homotopy n-type:n-type
 homotopy n-type:n-types
@@ -20225,7 +20117,6 @@ intersection:nullary intersection
 intersection:nullary intersections
 intersection number:intersection numbers
 intersection pairing:intersection number
-intersection pairing:intersection numbers
 intersection pairing:intersection pairings
 intersection pairing:intersection product
 intersection pairing:intersection products
@@ -20381,7 +20272,6 @@ invertible magma:invertible magmas
 invertible object:invertible objects
 invertible object:invertible type
 invertible object:invertible types
-invertible quasigroup:invertible magmas
 invertible semigroup:invertible semigroups
 involution:anti-involution
 involution:antiinvolution
@@ -20569,7 +20459,6 @@ Jacobi curve:Jacobi quartic
 Jacobi curve:Jacobi quartics
 Jacobi diagram:Jacobi diagrams
 Jacobi form:Jacobi forms
-Jacobi form:Jacobi theta-function
 Jacobi identity:jacobiator
 Jacobi identity:Jacobiator
 Jacobi identity:jacobiators
@@ -21054,8 +20943,6 @@ judgment:generic judgement
 judgment:generic judgements
 judgment:generic judgment
 judgment:generic judgments
-judgment:hypothetical judgement
-judgment:hypothetical judgements
 judgment:hypothetical judgment
 judgment:hypothetical judgments
 judgment:judgement
@@ -21237,8 +21124,6 @@ Karoubian category:pseudo-abelian categories
 Karoubian category:pseudoabelian categories
 Karoubian category:pseudo-abelian category
 Karoubian category:pseudoabelian category
-Karoubi envelope:idempotent complete category
-Karoubi envelope:idempotent-complete category
 Karoubi envelope:idempotent completion
 Karoubi envelope:idempotent completions
 Karoubi envelope:idempotent-splitting completion
@@ -21688,7 +21573,6 @@ K-theory of a symmetric monoidal (∞,1)-category:K-theory of symmetric monoidal
 K-theory spectrum:complex K-theory spectrum
 K-theory spectrum:KO
 K-theory spectrum:KU
-K-theory spectrum:KU-theory
 K-theory:Waldhausen K-theory
 K-topology:K-topologies
 k-tuply groupal n-groupoid:k-tuply groupal n-groupoids
@@ -21935,8 +21819,6 @@ László Lovász:Laszlo Lovasz
 Lat:free lattice
 lattice:bisemilattice
 lattice:bounded lattice
-lattice (discrete subgroup):lattice in a vector space
-lattice (discrete subgroup):lattices in a vector space
 lattice gauge theory:lattice field theories
 lattice gauge theory:lattice field theory
 lattice gauge theory:lattice gauge field theorues
@@ -22281,10 +22163,6 @@ Leibniz algebra:Leibniz law
 Leibniz algebra:Leibniz laws
 Leibniz algebra:Leibniz rule
 Leibniz algebra:Leibniz rules
-Leibniz algebra:Leibniz's law
-Leibniz algebra:Leibniz\\'s law
-Leibniz algebra:Leibniz's laws
-Leibniz algebra:Leibniz\\'s laws
 Leibniz algebra:Leibniz's rule
 Leibniz algebra:Leibniz\\'s rule
 Leibniz algebra:Leibniz's rules
@@ -22537,8 +22415,6 @@ Lie infinity-algebroid representation:L-infinity algebroid representation
 Lie infinity-algebroid representation:L-infinity algebroid representations
 Lie infinity-algebroid representation:representation of an ∞-Lie algebroid
 Lie infinity-algebroid representation:representations of ∞-Lie algebroids
-Lie infinity-algebroid representation:representations up to homotopy
-Lie infinity-algebroid representation:representation up to homotopy
 Lie integration:higher Lie integration
 Lie integration:higher Lie integrations
 Lie integration:Lie integrations
@@ -23081,8 +22957,6 @@ local colimit:local colimits
 local colimit:locally cocomplete bicategories
 local colimit:locally cocomplete bicategory
 local diffeomorphism:local diffeomorphisms
-locale:homomorphism of frames
-locale:homomorphisms of frames
 locale:internal locale
 locale:internal locales
 locale:locales
@@ -23093,9 +22967,7 @@ locale:map of frames
 locale:map of locales
 locale:maps of frames
 locale:maps of locales
-locale:morphism of frames
 locale:morphism of locales
-locale:morphisms of frames
 locale:morphisms of locales
 locale of real numbers:localic real line
 locale of real numbers:localic real number
@@ -23190,7 +23062,6 @@ localization of a commutative ring:Localization of commutative rings
 localization of a commutative ring:localizations of a commutative ring
 localization of a commutative ring:localizations of commutative rings
 localization of a commutative ring:Localizations of commutative rings
-localization of a model category > history:localization of a model category
 localization of a module:localizations of a module
 localization of a module:localizations of modules
 localization of an abelian category:localization in abelian categories
@@ -23349,8 +23220,6 @@ locally decomposable space:locally decomposable apartness spaces
 locally decomposable space:locally decomposable spaces
 locally decomposable space:locally decomposable topological space
 locally decomposable space:locally decomposable topological spaces
-locally discrete set of subsets:countably locally discrete sets of subsets
-locally discrete set of subsets:sigma-locally discrete sets of subsets
 locally equi-connected space:locally equi-connected spaces
 locally finite cell complex:locally finite cell complexes
 locally finite cell complex:locally finite CW complex
@@ -23400,9 +23269,6 @@ locally n-connected (n+1,1)-topos:((∞,1)-toposes of locally constant shape)
 locally n-connected (n+1,1)-topos:((∞,1)-topos of locally constant shape)
 locally n-connected (n+1,1)-topos:connected (∞,1)-geometric morphism
 locally n-connected (n+1,1)-topos:connected (∞,1)-geometric morphisms
-locally n-connected (n+1,1)-topos:∞-connected (∞,1)-topoi
-locally n-connected (n+1,1)-topos:∞-connected (∞,1)-topos
-locally n-connected (n+1,1)-topos:∞-connected (∞,1)-toposes
 locally n-connected (n+1,1)-topos:connected (infinity,1)-geometric morphism
 locally n-connected (n+1,1)-topos:connected (infinity,1)-geometric morphisms
 locally n-connected (n+1,1)-topos:∞-connected (infinity,1)-topoi
@@ -23426,12 +23292,6 @@ locally n-connected (n+1,1)-topos:essential (infinity,1)-geometric morphism
 locally n-connected (n+1,1)-topos:essential (infinity,1)-geometric morphisms
 locally n-connected (n+1,1)-topos:((infinity,1)-toposes of locally constant shape)
 locally n-connected (n+1,1)-topos:((infinity,1)-topos of locally constant shape)
-locally n-connected (n+1,1)-topos:infinity-connected (∞,1)-topoi
-locally n-connected (n+1,1)-topos:infinity-connected (∞,1)-topos
-locally n-connected (n+1,1)-topos:infinity-connected (∞,1)-toposes
-locally n-connected (n+1,1)-topos:infinity-connected (infinity,1)-topoi
-locally n-connected (n+1,1)-topos:infinity-connected (infinity,1)-topos
-locally n-connected (n+1,1)-topos:infinity-connected (infinity,1)-toposes
 locally n-connected (n+1,1)-topos:infinity-connected (n,1)-topoi
 locally n-connected (n+1,1)-topos:infinity-connected (n,1)-topos
 locally n-connected (n+1,1)-topos:infinity-connected (n,1)-toposes
@@ -23796,9 +23656,6 @@ Ludwig Wittgenstein:Wittgenstein
 Luis Alvarez-Gaumé:Luis Alvarez-Gaume
 Luis Español:Luis Espanol
 Luis Ibáñez:Luis Ibanez
-Luis Javier Hernandez > history:Luis Javier Hernáandez
-Luis Javier Hernandez > history:Luis Javier Hernandez
-Luis Javier Hernandez > history:Luis Javier Hernandez>History
 Luis Javier Hernández Paricio:Luis Javier Hernandez
 Luis Javier Hernández Paricio:Luis Javier Hernández
 Lukas Buhné:Lukas Buhne
@@ -24021,8 +23878,6 @@ Marius Dadarlat:Marius Dādārlat
 Marius Dadarlat:M. Dadarlat
 Marius Dadarlat:M. Dādārlat
 Mark Hovey:Hovey
-Mark Lawson > history:Mark Lawson
-Mark Lawson > history:Mark Lawson>History
 Mark Losik:Mark Volfovich Losik
 Marko Stošić:Marko Stosic
 Markov category:markov categories
@@ -25349,13 +25204,9 @@ moduli space of complex structures:moduli stacks of complex structures
 moduli space of conformal structures:moduli spaces of conformal structures
 moduli space of conformal structures:moduli stack of conformal structures
 moduli space of conformal structures:moduli stacks of conformal structures
-moduli space of connections:moduli space of flat connections
 moduli space of connections:moduli spaces of connections
-moduli space of connections:moduli spaces of flat connections
 moduli space of connections:moduli stack of connections
-moduli space of connections:moduli stack of flat connections
 moduli space of connections:moduli stacks of connections
-moduli space of connections:moduli stacks of flat connections
 moduli space of curves:moduli space of complex curves
 moduli space of curves:moduli space of punctured curves
 moduli space of curves:moduli space of Riemann surfaces
@@ -25479,7 +25330,6 @@ monadic functor:comonadic
 monadic functor:co-monadic functor
 monadic functor:comonadic functor
 monadic functor:co-monadic functors
-monadic functor:comonadic functors
 monadic functor:effective descent type
 monadic functor:functor of effective descent type
 monadic functor:functors of effective descent type
@@ -25623,7 +25473,6 @@ monoidal structure map:oplax monoidal structure maps
 monoidal structure map:oplax monoidal transformation
 monoidal structure map:oplax monoidal transformations
 monoidal topos:monoidal toposes
-monoid axiom in a monoidal model category:model structure on monoids
 monoid axiom in a monoidal model category:monoid axiom
 monoid in a monoidal category:algebra object
 monoid in a monoidal category:algebra objects
@@ -25900,8 +25749,6 @@ motivic homotopy theory:homotopy theory of schemes
 motivic homotopy theory:motivic homotopy category
 motivic homotopy theory:motivic space
 motivic homotopy theory:motivic spaces
-motivic homotopy theory:motivic spectra
-motivic homotopy theory:motivic spectrum
 motivic homotopy theory:motivic stable homotopy theory
 motivic homotopy theory:stable motivic homotopy category
 motivic homotopy theory:stable motivic homotopy theory
@@ -26106,8 +25953,6 @@ multiset:bags
 multiset:multisets
 multiset:multisubset
 multiset:multisubsets
-multispan:multicospan
-multispan:multicospans
 multispan:multispans
 multisymplectic geometry:covariant field theory
 multisymplectic geometry:extended phase space
@@ -26493,8 +26338,6 @@ neighborhood:closed neighborhood
 neighborhood:closed neighborhoods
 neighborhood:closed neighbourhood
 neighborhood:closed neighbourhoods
-neighborhood:local base
-neighborhood:local bases
 neighborhood:local subbase
 neighborhood:local subbases
 neighborhood:neighborhood filter
@@ -27186,8 +27029,6 @@ n-plectic geometry:n-plectic manifold
 n-plectic geometry:n-plectic manifolds
 n-plectic geometry:n-plectic structure
 n-plectic geometry:n-plectic structures
-n-plectic geometry:pre-n-plectic manifold
-n-plectic geometry:pre-n-plectic manifolds
 n-plectic vector space:n-plectic vector spaces
 n-point function:2-point function
 n-point function:3-point function
@@ -27681,10 +27522,6 @@ opposite poset:reverse preorder
 opposite poset:reverse preorders
 opposite poset:reverse proset
 opposite poset:reverse prosets
-opposite quasi-category:opposite (∞,1)-categories
-opposite quasi-category:opposite-(∞,1)-categories
-opposite quasi-category:opposite (∞,1)-category
-opposite quasi-category:opposite-(∞,1)-category
 opposite quasi-category:opposite (infinity,1)-categories
 opposite quasi-category:opposite-(infinity,1)-categories
 opposite quasi-category:opposite (infinity,1)-category
@@ -27905,7 +27742,6 @@ orthogonality:orthogonal complement
 orthogonality:orthogonal complements
 orthogonality:perpendicular
 orthogonal Lie algebra:Lorentz Lie algebra
-orthogonal Lie algebra:Lorentz Lie algebras
 orthogonal Lie algebra:orthogonal Lie algebras
 orthogonal Lie algebra:special orthogonal Lie algebra
 orthogonal Lie algebra:special orthogonal Lie algebras
@@ -28106,7 +27942,6 @@ paracompact Hausdorff spaces are normal:Dieudonné's theorem
 paracompact manifold:paracompact manifolds
 paracompact topological space:Dieudonne's theorem
 paracompact topological space:Dieudonne\\'s theorem
-paracompact topological space:Dieudonné's theorem
 paracompact topological space:Dieudonné\\'s theorem
 paracompact topological space:Dieudonne theorem
 paracompact topological space:Dieudonné theorem
@@ -28961,7 +28796,6 @@ pointed derivator:zero objects in a derivator
 pointed endofunctor:pointed endofunctors
 pointed endofunctor:pointed endomorphism
 pointed endofunctor:pointed endomorphisms
-pointed homotopy type:pointed homotopy class
 pointed homotopy type:pointed homotopy types
 pointed (infinity,1)-category:pointed (∞,1)-categories
 pointed (infinity,1)-category:pointed (∞,1)-category
@@ -29089,8 +28923,6 @@ Poisson n-algebra:Poisson 0-algebra
 Poisson n-algebra:Poisson 0-algebras
 Poisson n-algebra:Poisson 1-algebra
 Poisson n-algebra:Poisson 1-algebras
-Poisson n-algebra:Poisson 2-algebra
-Poisson n-algebra:Poisson 2-algebras
 Poisson n-algebra:Poisson 3-algebra
 Poisson n-algebra:Poisson 3-algebras
 Poisson n-algebra:Poisson n-algebras
@@ -29549,7 +29381,6 @@ precompact space:precompact subsets
 precompact space:precompact subspace
 precompact space:precompact subspaces
 precompact space:totally bounded space
-precompact space:totally bounded spaces
 preconditioner:preconditioners
 preconditioner:preconditioning
 precursors:precursors of category theory
@@ -29576,7 +29407,6 @@ predicative mathematics:predicativity
 predicative mathematics:weakly predicative mathematics
 predicative topos:predicative topoi
 predicative topos:predicative toposes
-predicative topos:predicativity
 predicative topos:strong predicative topoi
 predicative topos:strong predicative topos
 predicative topos:strong predicative toposes
@@ -29724,8 +29554,6 @@ preset:pre-set
 preset:pre-sets
 preset:presets
 presheaf of groupoids:presheaves of groupoids
-presheaf:presheaf categories
-presheaf:presheaf category
 presheaf:presheaves
 prestable (∞,1)-category:prestable (∞,1)-categories
 prestable (∞,1)-category:prestable ∞-categories
@@ -30055,8 +29883,6 @@ projective resolution:projective resolutions
 projective set:projective sets
 projective space:homogeneous coordinates
 projective space:projective spaces
-projective special linear group:special linear groups
-projective stack:projective spaces
 projective unitary group:projective unitary groups
 projective unitary group:PU(n)
 projective variety:projective algebraic varieties
@@ -30589,7 +30415,6 @@ pure state:pure states
 pure subobject:pure monomorphism
 pure subobject:pure monomorphisms
 pure subobject:pure morphism
-pure subobject:pure morphisms
 pure subobject:pure subobjects
 pure type system:pure type systems
 Pursuing stacks > history:Pursuing stacks -- history
@@ -31362,7 +31187,6 @@ rational fiber lemma:rational fibre lemmas
 rational function:rational functions
 rational function:ring of rational functions
 rational function:rings of rational functions
-rational functions are continuous:polynomials are continuous functions
 rational homotopy theory:rational homotopy type
 rational homotopy theory:rational homotopy types
 rationalization:rationalisation
@@ -31569,7 +31393,6 @@ reduced K-theory:reduced K-group
 reduced K-theory:reduced K-groups
 reduced object:reduced objects
 reduced object:reduced space
-reduced object:reduced spaces
 reduced object:reduced type
 reduced object:reduced types
 reduced phase space:reduced phase spaces
@@ -31581,8 +31404,6 @@ reduced simplicial set:reduced simplicial sets
 reduced space:reduced cohesive ∞-groupoid
 reduced space:reduced cohesive ∞-groupoids
 reduced space:reduced spaces
-reduced space:reduced type
-reduced space:reduced types
 reduced suspension:reduced suspension object
 reduced suspension:reduced suspension objects
 reduced suspension:reduced suspensions
@@ -31693,7 +31514,6 @@ reflexive relation:reflexive relations
 reflexive relation:reflexivity
 reflexive set:reflexive sets
 REF MakkaiReyes77:REF First Order Categorical Logic
-refutation by contradiction:proof of negation
 Regge trajectory:Regge slope
 Regge trajectory:Regge slopes
 Regge trajectory:Regge trajectories
@@ -31802,7 +31622,6 @@ regular semicategory:regular semi-category
 regular sequence:regular sequences
 regular singular point:irregular singular point
 regular space:completely regular
-regular space:completely regular space
 regular space:R2 space
 regular space:R2 spaces
 regular space:R2 topologies
@@ -32074,13 +31893,7 @@ residue:residues
 resizing axiom:resizing axioms
 resizing axiom:resizing rule
 resizing axiom:resizing rules
-resolution:cofibrant replacement functor
-resolution:cofibrant resolution
-resolution:cofibrant resolutions
 resolution:cosimplicial resolution functor
-resolution:fibrant replacement functor
-resolution:fibrant resolution
-resolution:fibrant resolutions
 resolution of singularities:blowing up
 resolution of singularities:blow up
 resolution of singularities:blow-up
@@ -32500,8 +32313,6 @@ Ronnie Brown:Ronald Brown
 Ronnie Brown:Ronald null Brown
 Ronnie Brown:RonnieBrown
 root (in representation theory):root system
-root (in representation theory):weight lattice
-root (in representation theory):weight lattices
 root of unity:primitive root of unity
 root of unity:primitive roots of unity
 root of unity:roots of unity
@@ -32931,7 +32742,6 @@ Seifert 3-manifold:Seifert 3-manifolds
 Seifert 3-manifold:Seifert fiber space
 Seifert 3-manifold:Seifert fiber spaces
 Seifert surface:Seifert surfaces
-Selberg zeta function:Selberg zeta function of a Riemann surface
 Selcan Aksoy:a
 selection monad:select monad
 selection theorem:selection theory
@@ -32942,7 +32752,6 @@ self-adjoint extension:selfadjoint extensions
 self-adjoint functor:self-adjoint functors
 self-adjoint functor:self-adjoint on the left
 self-adjoint functor:self-adjoint on the right
-self-adjoint morphism:self-adjoint
 self-adjoint morphism:self-adjoint matrices
 self-adjoint morphism:self-adjoint matrix
 self-adjoint morphism:self-adjoint morphisms
@@ -33025,11 +32834,10 @@ semialgebraic manifold:semialgebraic differential forms
 semialgebraic manifold:semi-algebraic manifold
 semialgebraic manifold:semi-algebraic manifolds
 semialgebraic manifold:semialgebraic manifolds
-semialgebraic manifold:semi-algebraic set
 semialgebraic manifold:semialgebraic set
-semialgebraic manifold:semi-algebraic sets
 semialgebraic manifold:semialgebraic sets
 semialgebraic set:semi-algebraic set
+semialgebraic set:semi-algebraic sets
 semicartesian monoidal category:semi-cartesian categories
 semicartesian monoidal category:semicartesian categories
 semicartesian monoidal category:semi-Cartesian categories
@@ -33449,8 +33257,6 @@ separable metric space:separable metric spaces
 separable space:separable spaces
 separable space:separable topological space
 separable space:separable topological spaces
-separated (2,1)-presheaf:prestack
-separated (2,1)-presheaf:prestacks
 separated (2,1)-presheaf:separated (2,1)-presheaves
 separated (2,1)-presheaf:separated prestack
 separated geometric morphism:Hausdorff topoi
@@ -34348,8 +34154,6 @@ simplicial skeleton:n-skeleta
 simplicial skeleton:n-skeleton
 simplicial skeleton:simplicial coskeleton
 simplicial skeleton:simplicial skeleta
-simplicial skeleton:skeleta
-simplicial skeleton:skeletons
 simplicial space:simplicial spaces
 simplicial T-complexes > history:simplicial T-complexes -- history
 simplicial T-complex:simplical T-complex
@@ -34425,10 +34229,6 @@ singular cohesion:singular-cohesive (infinity,1)-toposes
 singular cohesion:singular-cohesive (infinity)-topos
 singular cohesion:singular-cohesive (infinity)-toposes
 singular cohomology:Betti cohomology
-singular cohomology:singular chain
-singular cohomology:singular chain complex
-singular cohomology:singular chain complexes
-singular cohomology:singular chains
 singular cohomology:singular cochain
 singular cohomology:singular cochain complex
 singular cohomology:singular cochain complexes
@@ -34487,7 +34287,6 @@ size issues:size issue
 Sjoerd Crans:Sjoerd E. Crans
 skeletal geometric morphism:skeletal geometric morphisms
 skeletal geometric morphism:skeletal morphism
-skeletal > history:skeletal -- history
 skeleton:fibered skeleton
 skeleton:skeleta
 skeleton:skeletal
@@ -34624,7 +34423,6 @@ small category:essentially moderate category
 small category:essentially small
 small category:essentially small categories
 small category:essentially small category
-small category:moderate categories
 small category:moderate category
 small category:small
 small category:small categories
@@ -34713,7 +34511,6 @@ smooth infinity-groupoid:higher differentiable stacks
 smooth infinity-groupoid:infinity-Lie groupoid cohomology
 smooth infinity-groupoid:∞-Lie groupoid cohomology
 smooth infinity-groupoid:Lie infinity-groupoid
-smooth infinity-groupoid:Lie infinity-groupoids
 smooth infinity-groupoid:smooth 2-groupoid
 smooth infinity-groupoid:smooth 2-groupoids
 smooth infinity-groupoid:smooth ∞-group
@@ -34724,7 +34521,6 @@ smooth infinity-groupoid:Smooth∞Groupoids
 smooth infinity-groupoid:smooth ∞-groups
 smooth infinity-groupoid:Smooth∞Grpd
 smooth infinity-groupoid:smooth homotopy type
-smooth infinity-groupoid:smooth homotopy types
 smooth infinity-groupoid:smooth infinity-group
 smooth infinity-groupoid:smooth infinity-groupoids
 smooth infinity-groupoid:smooth infinity-groups
@@ -35165,8 +34961,6 @@ sphere packing:sphere packings
 sphere spectrum:S
 sphere:spheres
 spherical category:spherical categories
-spherical fibration:sphere bundle
-spherical fibration:sphere bundles
 spherical fibration:spherical fibrations
 spherical object and Pi(A)-algebra > history:spherical object and Pi(A)-algebra>history
 spherical object:spherical object and Pi(A)-algebra
@@ -36011,8 +35805,6 @@ string:fundamental string
 string:fundamental strings
 string group:String group
 string length scale:alpha'
-string length scale:Regge slope
-string length scale:Regge slopes
 string length scale:string length
 string length scale:string lengths
 string length scale:string length scales
@@ -36087,7 +35879,6 @@ strongly compact cardinal:strongly compact cardinals
 strongly compact topological space:stringly compact space
 strongly compact topological space:stringly compact spaces
 strongly compact topological space:stringly compact topological spaces
-strongly connected site:locally connected sites
 strongly connected topos:strongly connected geometric morphism
 strongly connected topos:strongly connected topoi
 strongly connected topos:strongly connected toposes
@@ -36378,8 +36169,6 @@ subset:subsets
 subset:superset
 subset:supersets
 subsingleton:subsingletons
-subsingleton:subterminal
-subsingleton:subterminals
 subspace:subspaces
 subspace topology:subspace of a topological space
 subspace topology:subspaces of a topological space
@@ -36493,10 +36282,6 @@ super algebra:super-algebra
 super algebra:superalgebra
 super algebra:super algebras
 super algebra:superalgebras
-super algebra:super-commutative super-algebra
-super algebra:super-commutative superalgebra
-super algebra:super-commutative super-algebras
-super algebra:super-commutative superalgebras
 super anti de Sitter spacetime:super anti-de Sitter spacetime
 super anti de Sitter spacetime:super anti de Sitter spacetimes
 super anti de Sitter spacetime:super anti-de Sitter spacetimes
@@ -36597,10 +36382,6 @@ super formal smooth infinity-groupoid:SuperFormalSmooth∞Groupoids
 super formal smooth infinity-groupoid:SuperFormalSmooth∞Grpd
 super formal smooth infinity-groupoid:super formal smooth infinity-groupoids
 super formal smooth infinity-groupoid:SuperFormalSmooth?Type
-super formal smooth infinity-groupoid:super infinity-group
-super formal smooth infinity-groupoid:super infinity-groups
-super formal smooth infinity-groupoid:super smooth ∞-groupoid
-super formal smooth infinity-groupoid:super smooth ∞-groupoids
 super formal smooth infinity-groupoid:super smooth infinity-groupoid
 super formal smooth infinity-groupoid:super smooth infinity-groupoids
 supergeometry:super geometries
@@ -37140,7 +36921,6 @@ symplectic manifold:symplectic form
 symplectic manifold:symplectic forms
 symplectic manifold:symplectic manifolds
 symplectic manifold:symplectic orbifold
-symplectic manifold:symplectic orbifolds
 symplectic manifold:symplectic structure
 symplectic manifold:symplectic structures
 symplectic orbifold:symplectic orbifolds
@@ -37187,7 +36967,6 @@ syntactic category:categories of contexts
 syntactic category:category of contexts
 syntactic category:syntactic categories
 syntactic category:syntactic site
-syntactic category:syntactic sites
 syntactic site:syntactic sites
 syntax-semantics duality:duality of syntax and semantics
 syntax-semantics duality:syntax - semantics duality
@@ -38349,6 +38128,7 @@ torsion-free module:torsionfree modules
 torsion group:Ab Tor
 torsion group:AbTor
 torsion group:torsion groups
+torsion group:torsion group
 torsion module:torsion modules
 torsion of a Cartan connection:torsion of Cartan connections
 torsion of a G-structure:torsion invariants of G-structures
@@ -38360,8 +38140,6 @@ torsion subgroup:torsion-free abelian group
 torsion subgroup:torsion-free abelian groups
 torsion subgroup:torsion-free group
 torsion subgroup:torsion-free groups
-torsion subgroup:torsion group
-torsion subgroup:torsion groups
 torsion subgroup:torsion subgroups
 torsion theory:torsion theories
 torsor:principal homogeneous space
@@ -38396,7 +38174,6 @@ totalization:totalizations
 totally bounded space:pre-compact space
 totally bounded space:precompact space
 totally bounded space:pre-compact spaces
-totally bounded space:precompact spaces
 totally bounded space:totally bounded gauge space
 totally bounded space:totally bounded gauge spaces
 totally bounded space:totally bounded metric space
@@ -38575,8 +38352,6 @@ transitive closure:transitive closures
 transitive relation:transitive relations
 transitive relation:transitivity
 transitive set:axiom of transitive closure
-transitive set:transitive closure
-transitive set:transitive closures
 transitive set:transitive sets
 translation group:translation
 translation group:translation groups
@@ -39246,7 +39021,6 @@ under category:undercategories
 under category:under-category
 under category:undercategory
 underlying ordinary category:underlying ordinary categories
-underlying set:underlying
 underlying set:underlying object
 underlying set:underlying objects
 underlying set:underlying sets
@@ -39484,8 +39258,6 @@ unit sphere:unit spheres
 unit type:trivial type
 unit type:trivial types
 unit type:unit types
-unit:unit of measurement
-unit:unit of measurements
 unit:units
 unit:units of measurement
 unit:units of measurements
@@ -40106,7 +39878,6 @@ weak bialgebra:weak Hopf algebra
 weak bialgebra:weak Hopf algebras
 weak colimit:weak colimits
 weak colimit:weakly initial object
-weak colimit:weak multicolimit
 weak complicial set:weak compicial set
 weak complicial set:weak complicial sets
 weakening rule:weakening rules
